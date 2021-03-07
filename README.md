@@ -22,6 +22,10 @@ These values we calculate using the following formula:
 
 f(n) = g(n) + h(n)
 
+## Output:
+
+<img src="https://i.imgur.com/e9EPDaO.gif"/>
+
 
 
 
