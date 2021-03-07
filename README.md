@@ -22,7 +22,10 @@ These values we calculate using the following formula:
 
 f(n) = g(n) + h(n)
 
-<li>Language used: Python<li> <li>Library: pygame</li>
+<ul>
+<li>Language used: Python<li> 
+<li>Library: pygame</li>
+  </ul>
 
 
 ## Output:
